@@ -89,12 +89,6 @@ Using the dataset generated from DWSIM simulations, multiple ML methods are trai
 - **Energy–Purity Tradeoff:** Helps visualize how operating conditions impact both purity and energy demand.  
 
 ---
-
-## ⚙️ Requirements
-Install dependencies with:
-```bash
-pip install -r requirements.txt
-
 ## Instructions
 - Extract files from **AI_Distillation_Surrogate.zip**
 - Open zip file in VS Code
@@ -104,3 +98,9 @@ pip install -r requirements.txt
 - **README.md** can be accessed in the folder.
 - **requirements.txt** attached to install dependencies
 - **Data Visualisation** and **Evaluation** folders contains EDA plots and Parity and Residual Plots
+---
+## ⚙️ Requirements
+Install dependencies with:
+```bash
+pip install -r requirements.txt
+---
